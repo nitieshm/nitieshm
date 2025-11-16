@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Niti Esh
+# 👋 Hi, I’m Nitiesh
 
 - 👀 I’m a **Cloud & DevOps Engineer** with 2.6 years of experience in building CI/CD pipelines, containerization, and cloud infrastructure.  
 - 🌱 I’m currently learning **advanced DevSecOps, Docker best practices, Jenkins pipelines, and cloud automation**.  
